@@ -1,2 +1,0 @@
-add $t0, $a0, $zero
-break
